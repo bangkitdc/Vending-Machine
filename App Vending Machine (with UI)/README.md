@@ -9,9 +9,8 @@
 7. Membuka app bisa dengan cara double click pada 'window.py' atau bisa juga buka melalui IDE anda (misal: VSCode)
 8. Selamat menjalankan program :D
 
-# Additional Information
-- Jika ada masalah dalam penginstallan/ error dalam app nya, silahkan hubungi
-Bangkit
-no telp: 081220959974
-idline: bangkitdc
-email: bangkitdc@gmail.com
+# Jika ada masalah dalam penginstallan/ error dalam app nya, silahkan hubungi
+- Bangkit
+- no telp: 081220959974
+- idline: bangkitdc
+- email: bangkitdc@gmail.com
